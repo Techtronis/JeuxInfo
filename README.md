@@ -1,2 +1,2 @@
 # JeuxInfo
-TM d'info
+test d'info
